@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="9dp">
+
+        <TextView
+            android:id="@+id/name_contact_ortu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="Marsini"
+            android:textSize="18sp"
+            android:textColor="#000000"/>
+        <TextView
+            android:id="@+id/nohp_contact_ortu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="081318045315"
+            android:textSize="12sp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:src="@drawable/ic_person_black_24dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginRight="16dp"
+        android:text="Orang Tua"
+        android:textSize="18sp"
+        android:textColor="#000000" />
+
+</LinearLayout>

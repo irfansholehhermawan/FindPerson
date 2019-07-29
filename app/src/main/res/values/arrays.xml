@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_of_jk">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="array_of_status">
+        <item>Anak</item>
+        <item>Orang Tua</item>
+    </string-array>
+</resources>

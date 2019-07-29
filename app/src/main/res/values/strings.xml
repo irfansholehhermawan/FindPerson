@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">ALERT</string>
+    <string name="home_name">ALERT</string>
+    <string name="app_names">Aplikasi Peringatan Orang Tua!</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Picture</string>
+    <string name="home">Home</string>
+    <string name="schedule">Schedule</string>
+    <string name="chatting">Chatting</string>
+    <string name="location">Location</string>
+    <string name="delete_data_question">Are You Sure?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">No Data!</string>
+    <string name="date">Date</string>
+    <string name="name_schedule">Name Schedule</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="auth_failed">Email or Password is wrong!! Pleace Check Again</string>
+    <string name="confirm_register">Email or Password has allready use!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_go_to_register">CREATE AN ACCOUNT</string>
+    <string name="message_forgot_password">Forgot Password</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+    <string name="hint_nama">Nama</string>
+    <string name="hint_jk">Jenis Kelamin</string>
+    <string name="hint_tempat">Tempat</string>
+    <string name="hint_tgl_lahir">Tanggal Lahir</string>
+    <string name="hint_no_hp">No Handphone</string>
+    <string name="btn_submit">Submit</string>
+    <string name="hint_status">Status</string>
+    <string name="empty_message">Wajib di Isi! Tidak boleh Kosong!</string>
+    <string name="no_data_schedule">No Data Schedule!</string>
+    <string name="notifikasi_profile">Lengkapi Profile Kamu!!!</string>
+    <string name="notif_profile">Isi Data Profilenya!</string>
+    <string name="hint_upload_photo_profile">UPLOAD PHOTO PROFILE</string>
+    <string name="hint_next">Submit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="detail_picture_name">Picture</string>
+    <string name="browse">Browse</string>
+    <string name="caption">Caption</string>
+    <string name="btn_upload">Upload</string>
+    <string name="picture_detail">Picture</string>
+    <string name="detail_picture">Picture</string>
+    <string name="my_qr_code">My QR Code</string>
+    <string name="empty_data_ortu">Tidak Ada Data! \nSliahkan Tambah Anak!!!</string>
+    <string name="title_add_schedule">Add Schedule</string>
+    <string name="no_data_picture">No Data Picture!</string>
+    <string name="notif_contact_ortu">Isikan Contact Orang Tua Anda!</string>
+    <string name="nama_orang_tua">Nama Orang Tua</string>
+    <string name="notifikasi_nohp">No HP tidak tersedia! Silahkan isi data terlebih dahulu.</string>
+    <string name="confirm_contact_ortu">Silahkan isi data Contact Orang Tua anda!</string>
+
+</resources>

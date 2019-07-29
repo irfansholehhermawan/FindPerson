@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/ic_add_schedule_black_24dp"
+        android:title="@string/schedule" />
+
+    <item
+        android:id="@+id/navigation_loation"
+        android:icon="@drawable/ic_location_black_24dp"
+        android:title="@string/location" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_photo_library_black_24dp"
+        android:title="@string/camera" />
+</menu>
